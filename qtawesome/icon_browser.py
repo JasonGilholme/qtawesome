@@ -1,7 +1,7 @@
 
 import sys
 
-from qtpy import QtCore, QtGui, QtWidgets
+from Qt import QtCore, QtGui, QtWidgets
 
 import qtawesome
 

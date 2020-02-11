@@ -3,7 +3,7 @@ Tests for QtAwesome Icon Browser.
 """
 
 import pytest
-from qtpy import QtCore, QtWidgets
+from Qt import QtCore, QtWidgets
 
 from qtawesome.icon_browser import IconBrowser
 
